@@ -1,0 +1,14 @@
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\bin\Debug\net6.0\8Reynas.exe
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\bin\Debug\net6.0\8Reynas.deps.json
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\bin\Debug\net6.0\8Reynas.runtimeconfig.json
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\bin\Debug\net6.0\8Reynas.dll
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\bin\Debug\net6.0\8Reynas.pdb
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.dll
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\refint\8Reynas.dll
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.pdb
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\8Reynas.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\ConsoleApp1\8Reynas\obj\Debug\net6.0\ref\8Reynas.dll
